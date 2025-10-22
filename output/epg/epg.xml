@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251022043147 +0800">
+<tv date="20251022044527 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6999,6 +6999,12 @@
 	<programme channel="NewTV惊悚悬疑" start="20251022095700 +0800" stop="20251022103700 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251022103700 +0800" stop="20251022115000 +0800">
+		<title lang="zh">钟馗归来万世妖灵</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251022115000 +0800" stop="20251022120400 +0800">
+		<title lang="zh">武夷山康养</title>
+	</programme>
 	<channel id="新动漫">
 		<display-name lang="zh">新动漫</display-name>
 	</channel>
@@ -12986,6 +12992,12 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251022085500 +0800" stop="20251022103500 +0800">
 		<title lang="zh">零点定理</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251022103500 +0800" stop="20251022110400 +0800">
+		<title lang="zh">武夷山康养</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251022110400 +0800" stop="20251022123400 +0800">
+		<title lang="zh">倾城</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
