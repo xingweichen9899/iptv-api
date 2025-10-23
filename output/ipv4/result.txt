@@ -1,22 +1,36 @@
 🕘️更新时间,#genre#
-2025-10-23 06:34:06,https://httop.top/tv-cctv3
+2025-10-23 18:46:04,http://1.31.14.70:54321/hls/13/index.m3u8
 
 📺央视频道,#genre#
-CCTV-3,https://httop.top/tv-cctv3
-CCTV-6,https://httop.top/tv-cctv6
+CCTV-4,http://1.31.14.70:54321/hls/13/index.m3u8
+CCTV-10,http://1.31.14.70:54321/hls/11/index.m3u8
+CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8
+CCTV-14,http://61.184.46.85:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
-CETV-1,https://httop.top/tv-cetv1
+CETV-4,http://live1.hrtn.net/live/zgjy4_1000.m3u8?auth_key=1761355085-2257f0fc0c536efec9d5e684e4dea767-0-931767c17cbfd1d075f45baaf2788d7a
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
+甘肃卫视,http://1.31.14.70:54321/hls/45/index.m3u8
+广西卫视,http://1.31.14.70:54321/hls/36/index.m3u8
+贵州卫视,http://1.31.14.70:54321/hls/33/index.m3u8
+河北卫视,http://1.31.14.70:54321/hls/18/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-青海卫视,https://httop.top/tv-青海卫视
-新疆卫视,https://httop.top/tv-新疆卫视
+河南卫视,http://1.31.14.70:54321/hls/44/index.m3u8
+江西卫视,http://1.31.14.70:54321/hls/42/index.m3u8
+宁夏卫视,http://1.31.14.70:54321/hls/30/index.m3u8
+青海卫视,http://1.31.14.70:54321/hls/43/index.m3u8
+陕西卫视,http://1.31.14.70:54321/hls/46/index.m3u8
+深圳卫视,http://1.31.14.70:54321/hls/40/index.m3u8
+西藏卫视,http://1.31.14.70:54321/hls/52/index.m3u8
+新疆卫视,http://1.31.14.70:54321/hls/31/index.m3u8
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
+云南卫视,http://1.31.14.70:54321/hls/37/index.m3u8
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -25,9 +39,9 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️天津频道,#genre#
-滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 津南一套,http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1
+武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 ☘️福建频道,#genre#
 晋江电视台,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
@@ -56,8 +70,8 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
@@ -91,7 +105,6 @@ IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
