@@ -1,9 +1,14 @@
 🕘️更新时间,#genre#
-2025-10-24 06:38:53,http://1.31.14.70:54321/hls/13/index.m3u8
+2025-10-24 18:46:45,http://1.31.14.70:54321/hls/13/index.m3u8
 
 📺央视频道,#genre#
 CCTV-4,http://1.31.14.70:54321/hls/13/index.m3u8
+CCTV-5,http://1.31.14.70:54321/hls/7/index.m3u8
+CCTV-6,http://1.31.14.70:54321/hls/8/index.m3u8
+CCTV-8,http://1.31.14.70:54321/hls/14/index.m3u8
 CCTV-10,http://1.31.14.70:54321/hls/11/index.m3u8
+CCTV-11,http://1.31.14.70:54321/hls/16/index.m3u8
+CCTV-12,http://1.31.14.70:54321/hls/12/index.m3u8
 CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
@@ -13,7 +18,10 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+广东卫视,http://1.31.14.70:54321/hls/28/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖北卫视,http://1.31.14.70:54321/hls/39/index.m3u8
+重庆卫视,http://1.31.14.70:54321/hls/34/index.m3u8
 东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
 甘肃卫视,http://1.31.14.70:54321/hls/45/index.m3u8
 广西卫视,http://1.31.14.70:54321/hls/36/index.m3u8
@@ -21,10 +29,14 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 河北卫视,http://1.31.14.70:54321/hls/18/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://1.31.14.70:54321/hls/44/index.m3u8
+江苏卫视,http://1.31.14.70:54321/hls/3/index.m3u8
 江西卫视,http://1.31.14.70:54321/hls/42/index.m3u8
+内蒙古卫视,http://1.31.14.70:54321/hls/55/index.m3u8
 宁夏卫视,http://1.31.14.70:54321/hls/30/index.m3u8
 青海卫视,http://1.31.14.70:54321/hls/43/index.m3u8
+山东卫视,http://1.31.14.70:54321/hls/32/index.m3u8
 陕西卫视,http://1.31.14.70:54321/hls/46/index.m3u8
+四川卫视,http://1.31.14.70:54321/hls/41/index.m3u8
 深圳卫视,http://1.31.14.70:54321/hls/40/index.m3u8
 新疆卫视,http://1.31.14.70:54321/hls/31/index.m3u8
 云南卫视,http://1.31.14.70:54321/hls/37/index.m3u8
@@ -38,6 +50,7 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 ☘️天津频道,#genre#
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 津南一套,http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1
+武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 ☘️福建频道,#genre#
 晋江电视台,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
@@ -46,10 +59,10 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 翡翠台,http://8.138.7.223/tv/hot.php?id=68
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
-凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
+凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
 凤凰资讯,http://zqh2333.top:2222/rtp/239.93.24.4:2191
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -85,8 +98,8 @@ IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,http://live.xmcdn.com/live/805/64.m3u8
 
 🪁动画频道,#genre#
@@ -101,8 +114,10 @@ IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+七龙珠,http://huanqiuzhibo.cn/manifest/huya.php?id=11601966
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
