@@ -1,7 +1,12 @@
 🕘️更新时间,#genre#
-2025-11-01 06:40:17,http://zqh2333.top:2222/rtp/239.93.55.54:5140
+2025-11-01 18:40:13,http://113.106.171.234:8899/rtp/239.20.0.236:2270
 
 📺央视频道,#genre#
+CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
+CCTV-9,http://sh.lnott.top:880/dx09.m3u8
+CCTV-12,http://111.221.137.155:44330/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV-13,http://sh.lnott.top:880/dx13.m3u8
+CCTV-13,http://111.221.137.155:44330/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CETV-1,https://httop.top/hrtn-cetv1
 CETV-1,http://116.179.149.157:6000/rtp/226.0.2.181:9360
@@ -13,10 +18,12 @@ CETV-4,http://116.179.149.157:6000/rtp/226.0.2.70:8472
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+东方卫视,http://sh.lnott.top:880/dx35.m3u8
 海南卫视,http://113.106.171.234:8899/rtp/239.20.0.155:2108
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 陕西卫视,http://113.106.171.234:8899/rtp/239.20.0.151:2100
 天津卫视,http://113.106.171.234:8899/rtp/239.20.0.89:3044
+云南卫视,http://sh.lnott.top:880/dx49.m3u8
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -27,9 +34,11 @@ CETV-4,http://116.179.149.157:6000/rtp/226.0.2.70:8472
 ☘️天津频道,#genre#
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 津南一套,http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1
+武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 ☘️福建频道,#genre#
 宁化电视一套,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8
+晋江电视台,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
@@ -63,6 +72,7 @@ IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
+龙祥电影,https://tv543.cc/Smart.php?id=lungxiangtime_twn
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 
 🎥咪咕直播,#genre#
