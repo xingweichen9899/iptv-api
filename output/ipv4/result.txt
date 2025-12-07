@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2025-12-07 18:20:59,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
+2025-12-08 06:20:20,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
 
 📺央视频道,#genre#
 CCTV-1,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
 CCTV-1,http://183.220.107.138:4022/rtp/239.11.0.130:5140
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
-CCTV-7,http://183.220.107.138:4022/rtp/239.11.0.110:5140
 CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140
 CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
@@ -58,8 +57,8 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
@@ -91,7 +90,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-金鹰卡通,http://221.13.235.49:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
