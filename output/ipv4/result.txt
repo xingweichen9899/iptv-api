@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-12-11 06:22:39,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
+2025-12-11 18:26:34,http://play.kankanlive.com/live/1698234869325962.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
 CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV-1,http://183.220.107.138:4022/rtp/239.11.0.130:5140
 CCTV-2,https://play.kankanlive.com/live/1698234898628961.m3u8
@@ -15,7 +14,6 @@ CCTV-12,https://play.kankanlive.com/live/1698423511884917.m3u8
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 CCTV-13,https://play.kankanlive.com/live/1698423543275916.m3u8
 CCTV-14,https://play.kankanlive.com/live/1698423575756915.m3u8
-CCTV-15,https://play.kankanlive.com/live/1698423607826914.m3u8
 CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 
@@ -24,7 +22,6 @@ CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 第一剧场,http://171.125.90.120:6001/rtp/226.0.2.221:9680
 风云剧场,http://171.125.90.120:6001/rtp/226.0.2.227:9728
 怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
-女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 女性时尚,http://171.125.90.120:6001/rtp/226.0.2.226:9720
 高尔夫网球,http://171.125.90.120:6001/rtp/226.0.2.217:9648
 风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8
@@ -37,6 +34,7 @@ CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+山西卫视,http://223.10.164.178:8459/rtp/239.1.1.1:8001
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 
 ☘️北京频道,#genre#
@@ -71,9 +69,9 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
