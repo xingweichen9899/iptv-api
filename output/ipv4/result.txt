@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-12 18:25:02,http://play.kankanlive.com/live/1698234869325962.m3u8
+2025-12-13 06:21:56,http://play.kankanlive.com/live/1698234869325962.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
@@ -18,12 +18,9 @@ CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 风云音乐,http://171.125.90.120:6001/rtp/226.0.2.220:9672
 第一剧场,http://171.125.90.120:6001/rtp/226.0.2.221:9680
 风云剧场,http://171.125.90.120:6001/rtp/226.0.2.227:9728
-怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 女性时尚,http://171.125.90.120:6001/rtp/226.0.2.226:9720
 高尔夫网球,http://171.125.90.120:6001/rtp/226.0.2.217:9648
-风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8
 电视指南,http://171.125.90.120:6001/rtp/226.0.2.218:9656
-世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 兵器科技,http://171.125.90.120:6001/rtp/226.0.2.223:9696
 
 📡卫视频道,#genre#
@@ -43,7 +40,6 @@ CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 ☘️天津频道,#genre#
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
-武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 ☘️福建频道,#genre#
 晋江电视台,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
@@ -101,7 +97,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-金鹰卡通,http://101.66.194.31:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
