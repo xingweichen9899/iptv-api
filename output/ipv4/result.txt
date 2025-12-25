@@ -1,9 +1,7 @@
 🕘️更新时间,#genre#
-2025-12-25 18:23:42,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
+2025-12-26 06:21:33,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
 
 📺央视频道,#genre#
-CCTV-3,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
-CCTV-4,http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
 CCTV-6,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
 CCTV-7,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
 CCTV-9,https://play.kankanlive.com/live/1698423397390920.m3u8
@@ -15,9 +13,7 @@ CCTV-15,http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
 CCTV-17,http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
-CETV-1,http://116.237.37.244:8888/rtp/239.45.1.125:5140
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
-CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
 
 💰央视付费频道,#genre#
 第一剧场,http://yp.qqqtv.top/1/api.php?id=CCTV-%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA&auth=666858
@@ -61,10 +57,8 @@ CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
 ☘️天津频道,#genre#
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
-武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 ☘️福建频道,#genre#
-厦门卫视,http://125.42.148.189:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 晋江电视台,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 
 🌊港·澳·台,#genre#
@@ -123,7 +117,6 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-金鹰卡通,http://125.42.148.189:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://1.197.249.55:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
