@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-28 06:20:24,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
+2025-12-28 18:21:54,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
 
 📺央视频道,#genre#
 CCTV-6,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
@@ -13,6 +13,7 @@ CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 
 💰央视付费频道,#genre#
+文化精品,http://yp.qqqtv.top/1/api.php?id=CCTV-%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81&auth=666858
 怀旧剧场,http://171.83.103.119:9999/rtp/239.69.1.86:10156
 高尔夫网球,http://171.83.103.119:9999/rtp/239.69.1.83:10138
 电视指南,http://171.83.103.119:9999/rtp/239.69.1.87:10162
@@ -23,8 +24,8 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 浙江卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&auth=666858
 湖南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-北京卫视,http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86HD&auth=666858
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86HD&auth=666858
 湖北卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86HD&auth=666858
 重庆卫视,http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD&auth=666858
 东方卫视,http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86HD&auth=666858
@@ -113,8 +114,8 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 海看电竞,http://144.255.32.94:8288/rtp/239.21.1.135:5002
 
 🎵音乐频道,#genre#
-音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
