@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-06 18:24:18,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv1
+2026-01-07 06:22:25,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,https://bxtv.3a.ink/mytv/mytvts3.333.php?id=cctv1
@@ -36,7 +36,6 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 ☘️福建频道,#genre#
-龙岩综合,http://112.109.206.106:9999/rtp/239.255.40.160:8208
 
 🌊港·澳·台,#genre#
 翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
@@ -58,8 +57,8 @@ Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 🎬电影频道,#genre#
 CHC动作电影,http://129.150.54.232:10001/yy/1382736809
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
