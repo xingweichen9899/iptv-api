@@ -1,10 +1,11 @@
 🕘️更新时间,#genre#
-2026-05-10 06:43:28,http://198.204.228.26/live/cctv1hd.m3u8
+2026-05-10 19:01:44,http://192.151.150.154/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
 CCTV-1,http://192.151.150.154/live/cctv1hd.m3u8
+CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
 CCTV-4,http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-5,http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
 CCTV-8,http://198.204.240.250:82/live/cctv8k.m3u8
 CCTV-9,http://192.151.150.154/live/cctv9hd.m3u8
@@ -14,6 +15,7 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 CCTV-14,http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
 CCTV-17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+CETV-2,http://120.76.248.139/live/bfgd/4200000492.m3u8
 
 💰央视付费频道,#genre#
 
@@ -22,6 +24,7 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 
 ☘️北京频道,#genre#
@@ -44,11 +47,6 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
-CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🎥咪咕直播,#genre#
@@ -60,6 +58,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 
 🪁动画频道,#genre#
+优漫卡通,https://iptv.catvod.com/catvod?id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&line=1
 
 🎮游戏频道,#genre#
 
