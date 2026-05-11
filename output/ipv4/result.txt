@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-05-11 20:40:03,http://192.151.150.154/live/cctv1hd.m3u8
+2026-05-12 06:54:24,http://192.151.150.154/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://192.151.150.154/live/cctv1hd.m3u8
 CCTV-4,http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5,http://192.151.150.154/live/cctv5p.m3u8
 CCTV-5,http://198.204.228.26/live/cctv5hd.m3u8
+CCTV-5,http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
 CCTV-8,http://198.204.240.250:82/live/cctv8k.m3u8
 CCTV-9,http://192.151.150.154/live/cctv9hd.m3u8
@@ -16,7 +16,6 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 CCTV-14,http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
 CCTV-17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
-CETV-1,https://iptv.catvod.com/catvod?id=CETV1&line=1
 
 💰央视付费频道,#genre#
 
@@ -37,7 +36,6 @@ CETV-1,https://iptv.catvod.com/catvod?id=CETV1&line=1
 ☘️天津频道,#genre#
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
-武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 ☘️福建频道,#genre#
 宁化电视一套,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8
@@ -48,8 +46,8 @@ CETV-1,https://iptv.catvod.com/catvod?id=CETV1&line=1
 🎬电影频道,#genre#
 CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
