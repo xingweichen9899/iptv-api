@@ -1,47 +1,51 @@
 🕘️更新时间,#genre#
-2026-06-06 07:10:15,https://live.264788.xyz/channel/cctv1?streamid=458e34213492c68772e565c06868d4af&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+2026-06-06 19:28:25,https://live.264788.xyz/channel/cctv1?streamid=458e34213492c68772e565c06868d4af&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 📺央视频道,#genre#
 CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=458e34213492c68772e565c06868d4af&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-1,http://111.228.4.117:6789/migu720p.php?id=608807420
 CCTV-2,http://111.228.4.117:6789/migu720p.php?id=631780532
-CCTV-3,http://207.56.13.146:81/cdnlive/cctv3.m3u8
+CCTV-2,http://120.202.94.181:9446/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV-3,https://live.264788.xyz/channel/cctv3?streamid=d0473114041b533ea069452f29f33588&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-3,http://207.56.13.146:81/cdnlive/cctv3.m3u8
 CCTV-3,http://111.228.4.117:6789/migu720p.php?id=624878271
 CCTV-4,http://192.151.150.154/live/cctv4k.m3u8
 CCTV-4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k
-CCTV-4,http://207.56.13.146:81/cdnlive/cctv4.m3u8
 CCTV-4,http://111.228.4.117:6789/migu720p.php?id=631780421
+CCTV-4,http://207.56.13.146:81/cdnlive/cctv4.m3u8
 CCTV-5,http://192.151.150.154/live/cctv5p.m3u8
 CCTV-5,http://111.228.4.117:6789/migu720p.php?id=641886683
-CCTV-5,https://live.264788.xyz/channel/cctv5?streamid=1806e73ac17e1ad9a7f4c7b2dc9abea6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV-5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
 CCTV-5+,http://111.228.4.117:6789/migu720p.php?id=641886773
 CCTV-6,http://111.228.4.117:6789/migu720p.php?id=624878396
 CCTV-7,http://111.228.4.117:6789/migu720p.php?id=673168121
+CCTV-8,https://live.264788.xyz/channel/cctv8?streamid=40de643d4d7181842c8181a3a31bfade&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
-CCTV-8,http://207.56.13.146:81/cdnlive/cctv8.m3u8
 CCTV-8,http://111.228.4.117:6789/migu720p.php?id=624878356
+CCTV-8,http://207.56.13.146:81/cdnlive/cctv8.m3u8
+CCTV-8,http://120.202.94.181:9446/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=25c0a56523dc33289ca79cb0ce6876f5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-9,http://192.151.150.154/live/cctv9hd.m3u8
 CCTV-9,http://111.228.4.117:6789/migu720p.php?id=673168140
 CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=73b69ea221be0bd00d6e465f10653101
+CCTV-9,http://fuxin.yunjifei.top:999/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV-10,http://111.228.4.117:6789/migu720p.php?id=624878405
+CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=3b93fbcc94fb84f897deb567d7a2a4ab&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-11,http://192.151.150.154/live/cctv11hd.m3u8
 CCTV-11,http://198.204.228.26/live/cctv11hd.m3u8
+CCTV-11,http://192.151.150.154/live/cctv11hd.m3u8
 CCTV-11,http://111.228.4.117:6789/migu720p.php?id=667987558
 CCTV-12,http://111.228.4.117:6789/migu720p.php?id=673168185
 CCTV-13,http://111.228.4.117:6789/migu720p.php?id=608807423
 CCTV-13,http://home.scanflove.com:7788/rtp/235.254.198.9:1312
-CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=8f369d689a4dd78055143e69e32ce6d8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-14,http://111.228.4.117:6789/migu720p.php?id=624878440
+CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
+CCTV-14,http://fuxin.yunjifei.top:999/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV-15,https://live.264788.xyz/channel/cctv15?streamid=b4f89c876ad7c8ac4af8056de8e12c84&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-15,http://111.228.4.117:6789/migu720p.php?id=673168223
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=cf99265df4dc15e2663266667c46ddf7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 CCTV-17,http://111.228.4.117:6789/migu720p.php?id=673168256
-CCTV-17,http://207.56.13.146:81/cdnlive/cctv17.m3u8
 CETV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv2
 CETV-2,http://198.204.228.26/live/cetv2.m3u8
 CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
@@ -51,8 +55,8 @@ CETV-4,http://198.204.228.26/live/cetv4.m3u8
 
 💰央视付费频道,#genre#
 文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
-风云剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
 风云剧场,http://107.150.60.122/live/fyjc.m3u8
+风云剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
 高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
 世界地理,http://192.151.150.154/live/sjdl.m3u8
 
@@ -66,9 +70,11 @@ CETV-4,http://198.204.228.26/live/cetv4.m3u8
 北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=14205fe676d226d4cdbd1d52fe782dc3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://111.228.4.117:6789/migu720p.php?id=947472496
+黑龙江卫视,http://fuxin.yunjifei.top:999/tsfile/live/0143_1.m3u8?key=txiptv
 安徽卫视,http://107.150.60.122/live/ahwshd.m3u8
 重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=0d606a0ff89dc49b8efb489237c11095&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=d5d7da9b3bb6bae0fe51c654812c073a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=7ac1647173cac04556dbb3d5dd784331&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
@@ -77,16 +83,17 @@ CETV-4,http://198.204.228.26/live/cetv4.m3u8
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=30d96b04c45b2b8bce197c9a7b4077c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=22a384055e4a94909e17012c852ac26d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 海南卫视,http://111.228.4.117:6789/migu720p.php?id=947472502
-海南卫视,http://www.negative.top:50000/rtp/233.50.201.55:5140
 河北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd
 河北卫视,https://live.264788.xyz/channel/hebeiweishi?streamid=3bfa581f7359d7f94abeb5e2c0986f0c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-河南卫视,http://192.151.150.154/live/hawshd.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://192.151.150.154/live/hawshd.m3u8
+河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=236ecef31b4ada45c617dc9c7aec3cd4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 河南卫视,http://111.228.4.117:6789/migu720p.php?id=790187291
 吉林卫视,http://111.228.4.117:6789/migu720p.php?id=947472500
+江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=532885846757ddf8f597ab4a3ca7101e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+江苏卫视,http://111.228.4.117:6789/migu720p.php?id=623899368
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 江苏卫视,http://173.208.212.130:8181/1080p/jsws.m3u8
-江苏卫视,http://111.228.4.117:6789/migu720p.php?id=623899368
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=4a6eec625aac2ea37719b063f81d43b8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 江西卫视,http://198.204.228.26/live/jxwshd.m3u8
 江西卫视,http://home.scanflove.com:7788/rtp/235.254.198.29:1392
@@ -96,8 +103,9 @@ CETV-4,http://198.204.228.26/live/cetv4.m3u8
 青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=366a61c1e203e1f01fd7eeeb0014f9a8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山西卫视,http://107.150.60.122/live/sxwshd.m3u8
 四川卫视,http://joyznm.i234.me:20000/rtp/239.3.1.29:8288
-天津卫视,http://198.204.228.26/live/tjwshd.m3u8
+深圳卫视,https://live.264788.xyz/channel/shenzhenweishi?streamid=072918b734a19db666c1e3cd5aa2598c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 天津卫视,https://live.264788.xyz/channel/tianjinweishi?streamid=d30a60392735d9a6ff2b72630d81c5d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+天津卫视,http://198.204.228.26/live/tjwshd.m3u8
 西藏卫视,http://198.204.228.26/live/xzws.m3u8
 云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=be30746d3aa0bb76eb69103606a6b26b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
