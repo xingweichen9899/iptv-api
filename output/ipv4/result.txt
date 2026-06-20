@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2026-06-20 20:01:16,https://live.264788.xyz/channel/cctv1?streamid=107a756f519973a7e95798c05737a47c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+2026-06-21 07:09:14,https://live.264788.xyz/channel/cctv1?streamid=107a756f519973a7e95798c05737a47c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 📺央视频道,#genre#
 CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=107a756f519973a7e95798c05737a47c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV-2,http://173.208.212.130:8181/720p/cctv2.m3u8
 CCTV-6,http://173.208.212.130:8181/720p/cctv6.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-8,http://207.56.13.146:81/cdnlive/cctv8.m3u8
@@ -17,7 +16,6 @@ CCTV-13,http://home.scanflove.com:7788/rtp/235.254.198.9:1312
 
 💰央视付费频道,#genre#
 央视台球,http://173.208.212.130:8181/720p/ystq.m3u8
-风云音乐,http://173.208.212.130:8181/720p/fyyy.m3u8
 第一剧场,http://173.208.212.130:8181/720p/dyjc.m3u8
 风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8
 怀旧剧场,http://173.208.212.130:8181/720p/hjjc.m3u8
@@ -26,7 +24,6 @@ CCTV-13,http://home.scanflove.com:7788/rtp/235.254.198.9:1312
 📡卫视频道,#genre#
 广东卫视,http://204.12.221.218:8181/3m1080p/gdws.m3u8
 广东卫视,http://173.208.212.130:8181/720p/gdws.m3u8
-浙江卫视,http://173.208.212.130:8181/720p/zjws.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://173.208.212.130:8181/720p/hnws.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -39,13 +36,14 @@ CCTV-13,http://home.scanflove.com:7788/rtp/235.254.198.9:1312
 东方卫视,http://173.208.212.130:8181/720p/dfws.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
-广西卫视,http://home.scanflove.com:7788/rtp/235.254.198.38:1428
 广西卫视,http://www.taoli.website:23234/rtp/239.3.1.39:8300
+广西卫视,http://home.scanflove.com:7788/rtp/235.254.198.38:1428
 贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
 贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://192.151.150.154/live/hawshd.m3u8
 河南卫视,http://173.208.212.130:8181/720p/haws.m3u8
+河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=ffc9cbdd1791aa15a6321452d620baff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 江西卫视,http://198.204.228.26/live/jxwshd.m3u8
 江西卫视,http://home.scanflove.com:7788/rtp/235.254.198.29:1392
@@ -55,7 +53,6 @@ CCTV-13,http://home.scanflove.com:7788/rtp/235.254.198.9:1312
 山西卫视,http://192.151.150.154/live/sxwshd.m3u8
 山西卫视,http://107.150.60.122/live/sxwshd.m3u8
 四川卫视,http://192.151.150.154/live/scwshd.m3u8
-四川卫视,http://223.75.149.129:9906/tsfile/live/0123_1.m3u8?key=txiptv
 四川卫视,http://www.taoli.website:23234/rtp/239.3.1.29:8288
 深圳卫视,http://173.208.212.130:8181/720p/szws.m3u8
 
@@ -65,7 +62,6 @@ CCTV-13,http://home.scanflove.com:7788/rtp/235.254.198.9:1312
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️天津频道,#genre#
-滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 津南一套,http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1
 
