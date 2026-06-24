@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-06-24 20:24:40,http://183.162.104.153:1234/631780421
+2026-06-25 07:04:59,http://173.208.212.130:8181/720p/cctv6.m3u8
 
 📺央视频道,#genre#
-CCTV-4,http://183.162.104.153:1234/631780421
 CCTV-6,http://173.208.212.130:8181/720p/cctv6.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-7,http://173.208.212.130:8181/720p/cctv7.m3u8
@@ -23,11 +22,9 @@ CCTV-17,http://173.208.212.130:8181/720p/cctv17.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://198.204.228.26/live/bjwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=af948f073fa99b226abb4c2ea63410da&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
 安徽卫视,http://173.208.212.130:8181/720p/ahws.m3u8
 东方卫视,http://173.208.212.130:8181/720p/dfws.m3u8
-东方卫视,http://222.90.21.30:9901/hls/20/index.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
 广西卫视,http://www.taoli.website:23234/rtp/239.3.1.39:8300
@@ -37,11 +34,7 @@ CCTV-17,http://173.208.212.130:8181/720p/cctv17.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://173.208.212.130:8181/720p/haws.m3u8
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
-辽宁卫视,http://222.90.21.30:9901/hls/39/index.m3u8
-内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
-山东卫视,http://222.90.21.30:9901/hls/26/index.m3u8
-山西卫视,http://107.150.60.122/live/sxwshd.m3u8
 四川卫视,http://192.151.150.154/live/scwshd.m3u8
 四川卫视,http://www.taoli.website:23234/rtp/239.3.1.29:8288
 
@@ -51,7 +44,6 @@ CCTV-17,http://173.208.212.130:8181/720p/cctv17.m3u8
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️天津频道,#genre#
-滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 津南一套,http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1
 
@@ -76,16 +68,16 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 成都体育,http://222.212.84.190:54123/rtp/239.93.0.224:1281
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 
 🪁动画频道,#genre#
 
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
-音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
