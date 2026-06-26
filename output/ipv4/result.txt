@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2026-06-26 07:19:26,http://173.208.212.130:8181/720p/cctv6.m3u8
+2026-06-26 20:12:25,http://173.208.212.130:8181/720p/cctv6.m3u8
 
 📺央视频道,#genre#
 CCTV-6,http://173.208.212.130:8181/720p/cctv6.m3u8
-CCTV-6,http://223.75.149.129:9906/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-7,http://173.208.212.130:8181/720p/cctv7.m3u8
 CCTV-8,http://173.208.212.130:8181/720p/cctv8.m3u8
@@ -12,19 +11,19 @@ CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=78160815544272b102b9e1b05ecf3471
 CCTV-10,http://173.208.212.130:8181/720p/cctv10.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696031215627010898/playlist.m3u8?keeptime=00093a80&wsSecret=1bebd13d7482ab1a6f4971ff549fa2e0&wsTime=6a349a1b&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&t_id=037-20260619092339689A6E65E32436425877-oeHxgW
 CCTV-17,http://173.208.212.130:8181/720p/cctv17.m3u8
 
 💰央视付费频道,#genre#
 文化精品,http://192.151.150.154/live/ysjp.m3u8
 第一剧场,http://173.208.212.130:8181/720p/dyjc.m3u8
+兵器科技,http://192.151.150.154/live/gfjs.m3u8
 
 📡卫视频道,#genre#
-广东卫视,http://173.208.212.130:8181/720p/gdws.m3u8
-湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-北京卫视,http://198.204.228.26/live/bjwshd.m3u8
+湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
+湖南卫视,http://204.12.221.218:8181/3m1080p/hnws.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://198.204.228.26/live/bjwshd.m3u8
 安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
 安徽卫视,http://173.208.212.130:8181/720p/ahws.m3u8
 东方卫视,http://173.208.212.130:8181/720p/dfws.m3u8
@@ -33,10 +32,13 @@ CCTV-17,http://173.208.212.130:8181/720p/cctv17.m3u8
 广西卫视,http://www.taoli.website:23234/rtp/239.3.1.39:8300
 广西卫视,http://home.scanflove.com:7788/rtp/235.254.198.38:1428
 贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
+贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
+河北卫视,http://192.151.150.154/live/hewshd.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=b08cc070cd8613ccaf17654f60883da8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 河南卫视,http://173.208.212.130:8181/720p/haws.m3u8
+吉林卫视,http://204.12.221.218:8181/3m1080p/jlws.m3u8
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 四川卫视,http://192.151.150.154/live/scwshd.m3u8
@@ -48,7 +50,6 @@ CCTV-17,http://173.208.212.130:8181/720p/cctv17.m3u8
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️天津频道,#genre#
-滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 津南一套,http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1
 
@@ -70,11 +71,11 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 成都体育,http://222.212.84.190:54123/rtp/239.93.0.224:1281
-天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 
 🪁动画频道,#genre#
 
