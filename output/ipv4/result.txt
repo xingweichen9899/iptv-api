@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-29 07:03:18,http://173.208.212.130:8181/720p/cctv6.m3u8
+2026-06-29 22:05:10,http://173.208.212.130:8181/720p/cctv6.m3u8
 
 📺央视频道,#genre#
 CCTV-6,http://173.208.212.130:8181/720p/cctv6.m3u8
@@ -33,10 +33,12 @@ CCTV-17,http://173.208.212.130:8181/720p/cctv17.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=b08cc070cd8613ccaf17654f60883da8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
+江西卫视,http://204.12.221.218:8181/3m1080p/jxws.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 四川卫视,http://192.151.150.154/live/scwshd.m3u8
 四川卫视,http://www.taoli.website:23234/rtp/239.3.1.29:8288
 深圳卫视,http://204.12.221.218:8181/3m1080p/szws.m3u8
+深圳卫视,http://111.8.224.6:9999/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -60,8 +62,8 @@ CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=cefe64289cde2680e596ee3c1c6a4bf2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
+IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 
 🎥咪咕直播,#genre#
 
