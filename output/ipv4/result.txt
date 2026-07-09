@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-07-09 20:33:11,http://182.37.41.46:8154/tsfile/live/0016_1.m3u8?key=txiptv
+2026-07-10 07:12:17,http://204.12.221.218:8181/3m1080p/cctv6.m3u8
 
 📺央视频道,#genre#
-CCTV-5+,http://182.37.41.46:8154/tsfile/live/0016_1.m3u8?key=txiptv
 CCTV-6,http://204.12.221.218:8181/3m1080p/cctv6.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-8,http://204.12.221.218:8181/3m1080p/cctv8.m3u8
@@ -22,16 +21,14 @@ CETV-4,http://204.12.221.218:8181/3m1080p/cetv4.m3u8
 📡卫视频道,#genre#
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://198.204.228.26/live/bjwshd.m3u8
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 安徽卫视,http://204.12.221.218:8181/3m1080p/ahws.m3u8
 东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
-广西卫视,http://home.scanflove.com:7788/rtp/235.254.198.38:1428
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-吉林卫视,http://101.66.198.163:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
