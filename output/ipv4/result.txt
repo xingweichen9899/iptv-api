@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-16 06:59:16,http://204.12.221.218:8181/3m1080p/cctv6.m3u8
+2026-07-16 19:40:52,http://204.12.221.218:8181/3m1080p/cctv6.m3u8
 
 📺央视频道,#genre#
 CCTV-6,http://204.12.221.218:8181/3m1080p/cctv6.m3u8
@@ -10,6 +10,7 @@ CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=bbbd054778ab532edfa97bf7c5395746&wsTime=6a544fee&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&t_id=037-2026071310394131FD5A22CCB9DDAFA77E-5XIF43
 CCTV-14,http://204.12.221.218:8181/3m1080p/cctv14.m3u8
+CCTV-15,http://204.12.221.218:8181/3m1080p/cctv15.m3u8
 CETV-2,http://204.12.221.218:8181/3m1080p/cetv2.m3u8
 CETV-3,http://204.12.221.218:8181/3m1080p/cetv3.m3u8
 CETV-4,http://204.12.221.218:8181/3m1080p/cetv4.m3u8
@@ -19,17 +20,18 @@ CETV-4,http://204.12.221.218:8181/3m1080p/cetv4.m3u8
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
 
 📡卫视频道,#genre#
-湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-北京卫视,http://198.204.228.26/live/bjwshd.m3u8
+湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://198.204.228.26/live/bjwshd.m3u8
+重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
 东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
+江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 
@@ -39,7 +41,6 @@ CETV-4,http://204.12.221.218:8181/3m1080p/cetv4.m3u8
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️天津频道,#genre#
-滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 津南一套,http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1
 
@@ -64,8 +65,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 成都体育,http://222.212.84.190:54123/rtp/239.93.0.224:1281
-天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 
 🪁动画频道,#genre#
