@@ -1,12 +1,21 @@
 🕘️更新时间,#genre#
-2026-07-21 19:50:49,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
+2026-07-22 06:57:50,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
+CCTV-2,http://125.43.247.15:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://125.43.247.15:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
+CCTV-6,http://125.43.247.15:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://125.43.247.15:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://125.43.247.15:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-10,http://125.43.247.15:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://125.43.247.15:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://125.43.247.15:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://125.43.247.15:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-2,http://204.12.221.218:8181/3m1080p/cetv2.m3u8
 CETV-3,http://204.12.221.218:8181/3m1080p/cetv3.m3u8
 CETV-4,http://204.12.221.218:8181/3m1080p/cetv4.m3u8
@@ -16,7 +25,6 @@ CETV-4,http://204.12.221.218:8181/3m1080p/cetv4.m3u8
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
 
 📡卫视频道,#genre#
-广东卫视,http://125.43.247.15:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://198.204.228.26/live/bjwshd.m3u8
@@ -26,11 +34,10 @@ CETV-4,http://204.12.221.218:8181/3m1080p/cetv4.m3u8
 东南卫视,http://125.43.247.15:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
-广西卫视,http://125.43.247.15:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
+江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 
@@ -40,7 +47,6 @@ CETV-4,http://204.12.221.218:8181/3m1080p/cetv4.m3u8
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️天津频道,#genre#
-滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 津南一套,http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1
 
@@ -69,7 +75,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 
 🪁动画频道,#genre#
-金鹰卡通,http://125.43.247.15:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 
