@@ -1,39 +1,33 @@
 🕘️更新时间,#genre#
-2026-08-01 19:18:23,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+2026-08-02 06:56:32,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
-CCTV-2,http://104.152.209.49:8181/720p/cctv2.m3u8
 CCTV-2,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
-CCTV-3,http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
+CCTV-2,http://104.152.209.49:8181/720p/cctv2.m3u8
 CCTV-4,http://104.152.209.49:8181/720p/cctv4.m3u8
 CCTV-4,http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-5,http://104.152.209.49:8181/720p/cctv5p.m3u8
-CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
-CCTV-5,http://39.77.158.228:4002/rtp/239.253.254.192:8000
-CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
-CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
+CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
+CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
+CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 CCTV-6,http://192.151.150.154/live/cctv6hd.m3u8
 CCTV-6,http://104.152.209.49:8181/720p/cctv6.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-7,http://104.152.209.49:8181/720p/cctv7.m3u8
-CCTV-7,http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8
-CCTV-8,http://104.152.209.49:8181/720p/cctv8.m3u8
 CCTV-8,http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
+CCTV-8,http://104.152.209.49:8181/720p/cctv8.m3u8
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-9,http://104.152.209.49:8181/720p/cctv9.m3u8
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-10,http://204.12.221.218:8181/3m1080p/cctv10.m3u8
-CCTV-10,http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
 CCTV-11,http://104.152.209.49:8181/720p/cctv11.m3u8
 CCTV-12,http://104.152.209.49:8181/720p/cctv12.m3u8
-CCTV-13,http://221.7.175.154:8445/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://104.152.209.49:8181/720p/cctv14.m3u8
 CCTV-14,http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
-CCTV-15,http://104.152.209.49:8181/720p/cctv15.m3u8
+CCTV-14,http://104.152.209.49:8181/720p/cctv14.m3u8
 CCTV-15,http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
+CCTV-15,http://104.152.209.49:8181/720p/cctv15.m3u8
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8?streamid=a78e16d1a56172e5525dedde279787a3&streamkey=070kmnWlSO6tVxvh6JyoORGIRdEtU2N6uMhBr52XFXMlpDP5cJR3WbAE4XDUyMtM85fygRhPAwq9wyn0AD7vg5QKiMGxk82vdtaBG0RYT7p2mBDXWyty&token=1775753992-d3736074ec706d13-0-d4be0b2d62639f66eea98eb8ecb876a6
 CCTV-16,http://104.152.209.49:8181/720p/cctv16.m3u8
 CCTV-17,http://104.152.209.49:8181/720p/cctv17.m3u8
@@ -56,12 +50,11 @@ CETV-4,http://204.12.221.218:8181/3m1080p/cetv4.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 安徽卫视,http://104.152.209.49:8181/720p/ahws.m3u8
 重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
-东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
-河南卫视,http://104.152.209.49:8181/720p/haws.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://104.152.209.49:8181/720p/haws.m3u8
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 江苏卫视,http://104.152.209.49:8181/720p/jsws.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
@@ -104,6 +97,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 
 🪁动画频道,#genre#
+金鹰卡通,http://125.43.249.115:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 
