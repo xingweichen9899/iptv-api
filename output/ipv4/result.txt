@@ -1,19 +1,18 @@
 🕘️更新时间,#genre#
-2026-08-08 06:35:28,http://104.152.209.49:8181/720p/cctv2.m3u8
+2026-08-08 18:33:03,http://104.152.209.49:8181/720p/cctv2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://104.152.209.49:8181/720p/cctv2.m3u8
-CCTV-4,http://173.208.212.130:8181/1080p/cctv4.m3u8
 CCTV-4,http://104.152.209.49:8181/720p/cctv4.m3u8
+CCTV-4,http://173.208.212.130:8181/1080p/cctv4.m3u8
 CCTV-4,http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-5,http://104.152.209.49:8181/720p/cctv5p.m3u8
 CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
-CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
 CCTV-6,http://173.208.212.130:8181/1080p/cctv6.m3u8
-CCTV-6,http://192.151.150.154/live/cctv6hd.m3u8
 CCTV-6,http://104.152.209.49:8181/720p/cctv6.m3u8
+CCTV-6,http://192.151.150.154/live/cctv6hd.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-7,http://104.152.209.49:8181/720p/cctv7.m3u8
 CCTV-8,http://104.152.209.49:8181/720p/cctv8.m3u8
@@ -33,15 +32,14 @@ CETV-4,http://204.12.221.218:8181/3m1080p/cetv4.m3u8
 
 💰央视付费频道,#genre#
 文化精品,http://104.152.209.49:8181/720p/ysjp.m3u8
-央视台球,http://104.152.209.49:8181/720p/ystq.m3u8
 第一剧场,http://104.152.209.49:8181/720p/dyjc.m3u8
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
 
 📡卫视频道,#genre#
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://198.204.228.26/live/bjwshd.m3u8
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 安徽卫视,http://104.152.209.49:8181/720p/ahws.m3u8
 重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
@@ -77,8 +75,8 @@ CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=cefe64289cde2680e596ee3c1c6a4bf2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
+IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🎥咪咕直播,#genre#
 
@@ -86,8 +84,8 @@ IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 体育赛事,http://45.192.97.170:8880/play/4187.m3u8
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
-天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 
 🪁动画频道,#genre#
