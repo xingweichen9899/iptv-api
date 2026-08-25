@@ -1,17 +1,17 @@
 🕘️更新时间,#genre#
-2026-08-25 18:35:26,http://173.208.212.130:8181/1080p/cctv3.m3u8
+2026-08-26 06:29:19,http://173.208.212.130:8181/1080p/cctv3.m3u8
 
 📺央视频道,#genre#
 CCTV-3,http://173.208.212.130:8181/1080p/cctv3.m3u8
-CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
+CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
 CCTV-6,http://173.208.212.130:8181/1080p/cctv6.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,http://112.30.73.119:229/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
-CETV-2,http://38.75.136.137:98/gslb/dsdqpub/cetv2.m3u8?auth=testpub
 CETV-2,http://204.12.221.218:8181/3m1080p/cetv2.m3u8
+CETV-2,http://38.75.136.137:98/gslb/dsdqpub/cetv2.m3u8?auth=testpub
 CETV-3,http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
 CETV-4,http://204.12.221.218:8181/3m1080p/cetv4.m3u8
 CETV-4,http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub
@@ -20,7 +20,6 @@ CETV-4,http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
 
 📡卫视频道,#genre#
-广东卫视,http://27.39.122.2:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -65,8 +64,8 @@ IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 🏀体育频道,#genre#
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 
 🪁动画频道,#genre#
